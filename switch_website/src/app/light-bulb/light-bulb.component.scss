@@ -1,0 +1,29 @@
+.light-bulb__container {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-bulb__icon {
+  width: 256px;
+  height: 256px;
+}
+
+.light-bulb__icon--off {
+  stroke: red;
+  fill: red;
+}
+
+.light-bulb__icon--on {
+  stroke: green;
+  fill: green;
+}
+
+.light-bulb__instruction {
+    margin-top: 3rem;
+    font-size: 2rem;
+    color: lightslategrey;
+    text-align: center;
+}

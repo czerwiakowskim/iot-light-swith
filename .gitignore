@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.DS_Store
+switch_device/data
+switch_website/dist/*
+switch_website/node_modules
+.editorconfig
+
 # User-specific files
 *.suo
 *.user

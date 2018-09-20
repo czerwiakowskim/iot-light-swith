@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "/Applications/Arduino.app/Contents/Java/libraries",
+  "customBuildProperties": "build.path=/Users/magic/Documents/projects/personal/angular_meetup_21/switch_device/build,build.warn_data_percentage=75,runtime.tools.esptool.path=/Users/magic/Library/Arduino15/packages/esp8266/tools/esptool/0.4.13,runtime.tools.xtensa-lx106-elf-gcc.path=/Users/magic/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2,runtime.tools.mkspiffs.path=/Users/magic/Library/Arduino15/packages/esp8266/tools/mkspiffs/0.2.0",
+  "fqbn": "esp8266:esp8266:generic:CpuFrequency=80,VTable=flash,ResetMethod=ck,CrystalFreq=26,FlashFreq=40,FlashMode=qio,FlashSize=512K0,led=2,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=none,UploadSpeed=115200",
+  "hardwareFolders": "/Applications/Arduino.app/Contents/Java/hardware,/Users/magic/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/magic/Documents/Arduino/libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "/Users/magic/Documents/projects/personal/angular_meetup_21/switch_device/switch_device.ino",
+  "toolsFolders": "/Applications/Arduino.app/Contents/Java/tools-builder,/Applications/Arduino.app/Contents/Java/hardware/tools/avr,/Users/magic/Library/Arduino15/packages"
+}
